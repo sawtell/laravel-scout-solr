@@ -1,5 +1,5 @@
 {
-  "name": "pxslip/laravel-scout-solr",
+  "name": "sawtell/laravel-scout-solr",
   "description": "A driver for the Laravel Scout search tools, using Apache Solr for the backend",
   "type": "library",
   "require": {
